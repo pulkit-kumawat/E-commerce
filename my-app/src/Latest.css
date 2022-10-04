@@ -1,0 +1,21 @@
+.img {
+    width: 26vh;
+    padding-left: 12px;
+}
+
+#new {
+    margin-top: 23px;
+}
+
+img {
+    border-radius: 23px;
+}
+
+img:hover {
+    padding: 12px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
